@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCart</string>
+    <string name="fine_grain_sugar">Fine Grain Sugar</string>
+    <string name="proceed_to_checkout">Proceed to checkout</string>
+</resources>
